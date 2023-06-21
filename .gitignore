@@ -1,0 +1,4 @@
+# Archivos que no debe tomar en cuanta github al publicar el proyecto
+
+node_modules
+.env
